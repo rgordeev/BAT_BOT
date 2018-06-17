@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a3c092a-a911-4373-8fb9-6fee179e97c1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/viber/bot/sample/SpringEchoBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/viber/bot/sample/SpringEchoBot.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -26,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/viber/bot/sample/SpringEchoBot.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="257">
-              <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+              <caret line="55" selection-start-line="55" selection-end-line="55" />
               <folding>
                 <element signature="e#1649#1650#0" expanded="true" />
                 <element signature="e#1713#1714#0" expanded="true" />
@@ -581,12 +580,12 @@
       <option name="presentableId" value="Default" />
       <updated>1529244714510</updated>
       <workItem from="1529244717903" duration="4587000" />
-      <workItem from="1529252106687" duration="12663000" />
+      <workItem from="1529252106687" duration="13490000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17250000" />
+    <option name="totallyTimeSpent" value="18077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -718,7 +717,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/viber/bot/sample/SpringEchoBot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
-          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
           <folding>
             <element signature="e#1649#1650#0" expanded="true" />
             <element signature="e#1713#1714#0" expanded="true" />
