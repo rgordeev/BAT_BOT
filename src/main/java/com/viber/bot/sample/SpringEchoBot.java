@@ -53,7 +53,7 @@ public class SpringEchoBot implements ApplicationListener<ApplicationReadyEvent>
         } catch (Exception e) {
             e.printStackTrace();
         }
-
+        bot.onTextMessage("(hi|hello)", (event, message, response) -> response.send("Hi " + event.getSender().getName()));
         bot.onMessageReceived((event, message, response) -> response.send(message)); // echos everything back
         bot.onConversationStarted(event -> Futures.immediateFuture(Optional.of( // send 'Hi UserName' when conversation is started
                 new TextMessage("Hi " + event.getUser().getName()))));
