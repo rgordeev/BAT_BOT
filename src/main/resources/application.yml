@@ -1,10 +1,9 @@
-server:
-  port: 8080
-
 application.viber-bot:
   auth-token: "47eff63c5c67d67a-9bcecbd655fd358b-3a0460b63da70d7e"
   webhook-url: "https://bla-bla.herokuapp.com:8080"
   name: "EchoBot"
   avatar: "http://example.com/avatar.jpg"
 
-logging.level.com.viber: DEBUG
+logging:
+  level:
+    root: DEBUG
